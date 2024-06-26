@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.bg-conatiner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-cntent: center;
+}
+.image {
+  width:50%;
+}

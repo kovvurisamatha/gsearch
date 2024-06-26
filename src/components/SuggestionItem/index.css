@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  display: flex;
+}
+.butt{
+    margin:10px;
+}
+.image{
+    width:25%;
+}
